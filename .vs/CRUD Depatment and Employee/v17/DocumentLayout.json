@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Api\\CRUD Depatment and Employee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8606D321-94DF-4ED3-AA03-A4EF736AF560}|CRUD Depatment and Employee.csproj|g:\\api\\crud depatment and employee\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8606D321-94DF-4ED3-AA03-A4EF736AF560}|CRUD Depatment and Employee.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8606D321-94DF-4ED3-AA03-A4EF736AF560}|CRUD Depatment and Employee.csproj|g:\\api\\crud depatment and employee\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8606D321-94DF-4ED3-AA03-A4EF736AF560}|CRUD Depatment and Employee.csproj|solutionrelative:controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8606D321-94DF-4ED3-AA03-A4EF736AF560}|CRUD Depatment and Employee.csproj|g:\\api\\crud depatment and employee\\dtos\\departments\\getalldepatmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8606D321-94DF-4ED3-AA03-A4EF736AF560}|CRUD Depatment and Employee.csproj|solutionrelative:dtos\\departments\\getalldepatmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8606D321-94DF-4ED3-AA03-A4EF736AF560}|CRUD Depatment and Employee.csproj|g:\\api\\crud depatment and employee\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8606D321-94DF-4ED3-AA03-A4EF736AF560}|CRUD Depatment and Employee.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8606D321-94DF-4ED3-AA03-A4EF736AF560}|CRUD Depatment and Employee.csproj|g:\\api\\crud depatment and employee\\dtos\\departments\\createdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8606D321-94DF-4ED3-AA03-A4EF736AF560}|CRUD Depatment and Employee.csproj|solutionrelative:dtos\\departments\\createdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8606D321-94DF-4ED3-AA03-A4EF736AF560}|CRUD Depatment and Employee.csproj|g:\\api\\crud depatment and employee\\dtos\\employees\\getallemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8606D321-94DF-4ED3-AA03-A4EF736AF560}|CRUD Depatment and Employee.csproj|solutionrelative:dtos\\employees\\getallemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./CRUD_Employee_Department/True/SqlTable/dbo.Employees.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./CRUD_Employee_Department/True/SqlTable/dbo.Departments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8606D321-94DF-4ED3-AA03-A4EF736AF560}|CRUD Depatment and Employee.csproj|g:\\api\\crud depatment and employee\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8606D321-94DF-4ED3-AA03-A4EF736AF560}|CRUD Depatment and Employee.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8606D321-94DF-4ED3-AA03-A4EF736AF560}|CRUD Depatment and Employee.csproj|g:\\api\\crud depatment and employee\\dtos\\employees\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8606D321-94DF-4ED3-AA03-A4EF736AF560}|CRUD Depatment and Employee.csproj|solutionrelative:dtos\\employees\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8606D321-94DF-4ED3-AA03-A4EF736AF560}|CRUD Depatment and Employee.csproj|g:\\api\\crud depatment and employee\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8606D321-94DF-4ED3-AA03-A4EF736AF560}|CRUD Depatment and Employee.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8606D321-94DF-4ED3-AA03-A4EF736AF560}|CRUD Depatment and Employee.csproj|g:\\api\\crud depatment and employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8606D321-94DF-4ED3-AA03-A4EF736AF560}|CRUD Depatment and Employee.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8606D321-94DF-4ED3-AA03-A4EF736AF560}|CRUD Depatment and Employee.csproj|g:\\api\\crud depatment and employee\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8606D321-94DF-4ED3-AA03-A4EF736AF560}|CRUD Depatment and Employee.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "G:\\Api\\CRUD Depatment and Employee\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "G:\\Api\\CRUD Depatment and Employee\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:35:48.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAllDepatmentDTO.cs",
+              "DocumentMoniker": "G:\\Api\\CRUD Depatment and Employee\\DTOs\\Departments\\GetAllDepatmentDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Departments\\GetAllDepatmentDTO.cs",
+              "ToolTip": "G:\\Api\\CRUD Depatment and Employee\\DTOs\\Departments\\GetAllDepatmentDTO.cs",
+              "RelativeToolTip": "DTOs\\Departments\\GetAllDepatmentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:35:36.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateDepartmentDTO.cs",
+              "DocumentMoniker": "G:\\Api\\CRUD Depatment and Employee\\DTOs\\Departments\\CreateDepartmentDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Departments\\CreateDepartmentDTO.cs",
+              "ToolTip": "G:\\Api\\CRUD Depatment and Employee\\DTOs\\Departments\\CreateDepartmentDTO.cs",
+              "RelativeToolTip": "DTOs\\Departments\\CreateDepartmentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:35:11.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAllEmployeeDTO.cs",
+              "DocumentMoniker": "G:\\Api\\CRUD Depatment and Employee\\DTOs\\Employees\\GetAllEmployeeDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Employees\\GetAllEmployeeDTO.cs",
+              "ToolTip": "G:\\Api\\CRUD Depatment and Employee\\DTOs\\Employees\\GetAllEmployeeDTO.cs",
+              "RelativeToolTip": "DTOs\\Employees\\GetAllEmployeeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:19:52.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "G:\\Api\\CRUD Depatment and Employee\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentsController.cs",
+              "ToolTip": "G:\\Api\\CRUD Depatment and Employee\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAADgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T06:59:43.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "G:\\Api\\CRUD Depatment and Employee\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "G:\\Api\\CRUD Depatment and Employee\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T06:48:01.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Employees [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./CRUD_Employee_Department/True/SqlTable/dbo.Employees.sql",
+              "ToolTip": "dbo.Employees [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-10T07:06:35.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.Departments [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./CRUD_Employee_Department/True/SqlTable/dbo.Departments.sql",
+              "ToolTip": "dbo.Departments [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-10T07:07:03.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "G:\\Api\\CRUD Depatment and Employee\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "G:\\Api\\CRUD Depatment and Employee\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:34:53.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateEmployeeDTO.cs",
+              "DocumentMoniker": "G:\\Api\\CRUD Depatment and Employee\\DTOs\\Employees\\CreateEmployeeDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Employees\\CreateEmployeeDTO.cs",
+              "ToolTip": "G:\\Api\\CRUD Depatment and Employee\\DTOs\\Employees\\CreateEmployeeDTO.cs",
+              "RelativeToolTip": "DTOs\\Employees\\CreateEmployeeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:19:23.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "G:\\Api\\CRUD Depatment and Employee\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "G:\\Api\\CRUD Depatment and Employee\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T06:44:52.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\Api\\CRUD Depatment and Employee\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "G:\\Api\\CRUD Depatment and Employee\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-10T06:43:22.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Api\\CRUD Depatment and Employee\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\Api\\CRUD Depatment and Employee\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T06:42:49.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
